@@ -1,6 +1,6 @@
 全程 vibe coding，应该没有很特别的 requirement，直接 python main.py 运行即可
 
-使用 api：[https://api.aabao.vip](调用要改成 top)
+使用 api：[https://api.aabao.vip]  (调用要改成 top)
 
 gemini-3-pro-image-preview+sora-2-landscape-15s
 
